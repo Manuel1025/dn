@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Agregar Articulo al Carrito de Compras" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-22T17:32:50" hostname="22LAP5CD1346NJJ" time="22.782">
+  <properties/>
+  <testcase name="Deberia agregar un elemento al carrito de compras" classname="Agregar Articulo al Carrito de Compras" time="22.782"/>
+  <system-out><![CDATA[12:32:51.052 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+12:32:51.052 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+12:32:58.457 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+12:32:58.457 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+12:32:58.965 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\fa6db0653ffb1a241c862799163fdd73be6d9bae5ef79ceec619fc4d299c8e25.png
+12:32:58.966 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-2144047352508527094
+12:32:58.966 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\fa6db0653ffb1a241c862799163fdd73be6d9bae5ef79ceec619fc4d299c8e25.png
+12:32:59.884 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\00af55595b58a3dbe135316c75c03dbeb747c8665d5f5e623c9ee2877f8f7f80.png
+12:32:59.885 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3418944127850175208
+12:32:59.885 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\00af55595b58a3dbe135316c75c03dbeb747c8665d5f5e623c9ee2877f8f7f80.png
+12:33:04.583 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\bd14f8886065953692099d9b34b98015c36a9f5af826dc18c890776b4853d06c.png
+12:33:04.585 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3832238048677916447
+12:33:04.585 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\bd14f8886065953692099d9b34b98015c36a9f5af826dc18c890776b4853d06c.png
+precio 1*******$ 1.499.900
+precio en carrito***$ 1.499.900
+12:33:11.448 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Desktop\falabella\dojo_serenity_cucumber\target\site\serenity\8147bec8b0d2a6c59c28f945327dcd7d3ca9321fdbc5cfb7f9824ea4a671e2b7.png
+12:33:13.264 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Deberia agregar un elemento al carrito de compras
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[dic 22, 2021 12:32:50 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 36008
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 22, 2021 12:32:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
